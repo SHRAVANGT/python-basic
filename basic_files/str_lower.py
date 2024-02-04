@@ -1,7 +1,7 @@
 #######################
 ##
 #
-#
+# It reports about lower case and upper case of alphabet
 #
 #
 #
